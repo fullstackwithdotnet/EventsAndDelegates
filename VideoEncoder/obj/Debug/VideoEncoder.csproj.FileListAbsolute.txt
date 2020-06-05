@@ -1,0 +1,6 @@
+C:\Users\UnicornDAL\Documents\Visual Studio 2019\Projects\EventsAndDelegates\VideoEncoder\bin\Debug\VideoEncoder.exe.config
+C:\Users\UnicornDAL\Documents\Visual Studio 2019\Projects\EventsAndDelegates\VideoEncoder\bin\Debug\VideoEncoder.exe
+C:\Users\UnicornDAL\Documents\Visual Studio 2019\Projects\EventsAndDelegates\VideoEncoder\bin\Debug\VideoEncoder.pdb
+C:\Users\UnicornDAL\Documents\Visual Studio 2019\Projects\EventsAndDelegates\VideoEncoder\obj\Debug\VideoEncoder.csprojAssemblyReference.cache
+C:\Users\UnicornDAL\Documents\Visual Studio 2019\Projects\EventsAndDelegates\VideoEncoder\obj\Debug\VideoEncoder.exe
+C:\Users\UnicornDAL\Documents\Visual Studio 2019\Projects\EventsAndDelegates\VideoEncoder\obj\Debug\VideoEncoder.pdb
